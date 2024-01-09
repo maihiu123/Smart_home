@@ -1,0 +1,124 @@
+Removed Pin From Net: NetName=5V Pin=D4-2
+Removed Pin From Net: NetName=5V Pin=IC2-8
+Change Component Footprint: Designator=IC3 Old Footprint=74HC595 -16SOIC New Footprint=DIP16/W0.3
+Change Component Footprint: Designator=SW1 Old Footprint=Button 3x4mm New Footprint=BUTTON 2PIN TRON
+Change Component Footprint: Designator=SW2 Old Footprint=Button 3x4mm New Footprint=BUTTON 2PIN TRON
+Change Component Footprint: Designator=SW3 Old Footprint=Button 3x4mm New Footprint=BUTTON 2PIN TRON
+Change Component Footprint: Designator=SW4 Old Footprint=Button 3x4mm New Footprint=BUTTON 2PIN TRON
+Change Component Comment : Designator=R1 Old Comment=4K7 New Comment=33K
+Change Component Comment : Designator=R2 Old Comment=4K7 New Comment=33K
+Change Component Comment : Designator=R10 Old Comment=4K7 New Comment=33K
+Change Component Comment : Designator=R11 Old Comment=4K7 New Comment=33K
+Change Component Comment : Designator=SW1 Old Comment=FLASH New Comment=SW
+Change Component Comment : Designator=SW3 Old Comment=FLASH New Comment=SW
+Change Component Comment : Designator=SW2 Old Comment=RST New Comment=SW
+Change Component Comment : Designator=SW4 Old Comment=RST New Comment=SW
+Change component parameters: Designator = "U5" ("U5"); Footprint = "ESP32 WROOM"; UniqueID = "\VWMLYWPN\DOUQSEFR" ("\VWMLYWPN\DOUQSEFR")
+Change component parameters: Designator = "USB1" ("USB1"); Footprint = "USB_MICRO_B - Digikey"; UniqueID = "\NEPGCJCH\OIPPQHTS" ("\NEPGCJCH\OIPPQHTS")
+Change component parameters: Designator = "USB2" ("USB2"); Footprint = "USB_MICRO_B - Digikey"; UniqueID = "\VWMLYWPN\FBTMQGCE" ("\VWMLYWPN\FBTMQGCE")
+Change component parameters: Designator = "IC3" ("IC3"); Footprint = "74HC595 -16SOIC"; UniqueID = "\VWMLYWPN\IKMVYCWC" ("\VWMLYWPN\IKMVYCWC")
+Change component parameters (AddParameter): Name = "Value"; Value = "74HC595"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "Button 3x4mm"; UniqueID = "\NEPGCJCH\FXWVTJMV" ("\NEPGCJCH\FXWVTJMV")
+Change component parameters (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW2" ("SW2"); Footprint = "Button 3x4mm"; UniqueID = "\VWMLYWPN\FXQMHPAQ" ("\VWMLYWPN\FXQMHPAQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW3" ("SW3"); Footprint = "Button 3x4mm"; UniqueID = "\VWMLYWPN\CKJLMUGM" ("\VWMLYWPN\CKJLMUGM")
+Change component parameters (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW4" ("SW4"); Footprint = "Button 3x4mm"; UniqueID = "\VWMLYWPN\UFEWYHDT" ("\VWMLYWPN\UFEWYHDT")
+Change component parameters (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC1" ("IC1"); Footprint = "CP2102-QFN28"; UniqueID = "\NEPGCJCH\NZIFYHLP" ("\NEPGCJCH\NZIFYHLP")
+Change component parameters: Designator = "IC2" ("IC2"); Footprint = "CP2102-QFN28"; UniqueID = "\VWMLYWPN\SGVKHHDR" ("\VWMLYWPN\SGVKHHDR")
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=5V Pin=D1-2
+Added Pin To Net: NetName=RXD0 Pin=HD1-2
+Added Pin To Net: NetName=TXD0 Pin=HD2-2
+Added Pin To Net: NetName=5V Pin=IC1-8
+Added Pin To Net: NetName=TXD0 Pin=R17-2
+Added Pin To Net: NetName=RXD0 Pin=R18-2
+Added Pin To Net: NetName=RXD0 Pin=U5-34
+Added Pin To Net: NetName=TXD0 Pin=U5-35
+Change Net Name : Old Net Name=NetU4_1 New Net Name=PE2
+Change Net Name : Old Net Name=NetU4_2 New Net Name=PE3
+Change Net Name : Old Net Name=NetU4_3 New Net Name=PE4
+Change Net Name : Old Net Name=NetU4_4 New Net Name=PE5
+Change Net Name : Old Net Name=NetU4_5 New Net Name=PE6
+Change Net Name : Old Net Name=NetU4_7 New Net Name=PC13
+Change Net Name : Old Net Name=NetU4_8 New Net Name=PC14
+Change Net Name : Old Net Name=NetU4_9 New Net Name=PC15
+Change Net Name : Old Net Name=NetU4_12 New Net Name=OSC_IN
+Change Net Name : Old Net Name=NetU4_13 New Net Name=OSC_OUT
+Change Net Name : Old Net Name=NetU4_14 New Net Name=NRST
+Change Net Name : Old Net Name=NetU4_15 New Net Name=PC0
+Change Net Name : Old Net Name=NetU4_16 New Net Name=PC1
+Change Net Name : Old Net Name=NetU4_17 New Net Name=PC2
+Change Net Name : Old Net Name=NetU4_18 New Net Name=PC3
+Change Net Name : Old Net Name=NetU4_23 New Net Name=PA0
+Change Net Name : Old Net Name=NetU4_24 New Net Name=PA1
+Change Net Name : Old Net Name=NetU4_25 New Net Name=PA2
+Change Net Name : Old Net Name=NetU4_26 New Net Name=PA3
+Change Net Name : Old Net Name=NetU4_29 New Net Name=PA4
+Change Net Name : Old Net Name=NetU4_30 New Net Name=PA5
+Change Net Name : Old Net Name=NetU4_31 New Net Name=PA6
+Change Net Name : Old Net Name=NetU4_32 New Net Name=PA7
+Change Net Name : Old Net Name=NetU4_33 New Net Name=PC4
+Change Net Name : Old Net Name=NetU4_34 New Net Name=PC5
+Change Net Name : Old Net Name=NetU4_35 New Net Name=PB0
+Change Net Name : Old Net Name=NetU4_36 New Net Name=PB1
+Change Net Name : Old Net Name=NetU4_37 New Net Name=PB2
+Change Net Name : Old Net Name=NetU4_38 New Net Name=PE7
+Change Net Name : Old Net Name=NetU4_39 New Net Name=PE8
+Change Net Name : Old Net Name=NetU4_40 New Net Name=PE9
+Change Net Name : Old Net Name=NetU4_41 New Net Name=PE10
+Change Net Name : Old Net Name=NetU4_42 New Net Name=PE11
+Change Net Name : Old Net Name=NetU4_43 New Net Name=PE12
+Change Net Name : Old Net Name=NetU4_44 New Net Name=PE13
+Change Net Name : Old Net Name=NetU4_45 New Net Name=PE14
+Change Net Name : Old Net Name=NetU4_46 New Net Name=PE15
+Change Net Name : Old Net Name=NetU4_47 New Net Name=PB10
+Change Net Name : Old Net Name=NetU4_48 New Net Name=PB11
+Change Net Name : Old Net Name=NetU4_51 New Net Name=PB12
+Change Net Name : Old Net Name=NetU4_52 New Net Name=PB13
+Change Net Name : Old Net Name=NetU4_53 New Net Name=PB14
+Change Net Name : Old Net Name=NetU4_54 New Net Name=PB15
+Change Net Name : Old Net Name=NetU4_55 New Net Name=PD8
+Change Net Name : Old Net Name=NetU4_56 New Net Name=PD9
+Change Net Name : Old Net Name=NetU4_57 New Net Name=PD10
+Change Net Name : Old Net Name=NetU4_58 New Net Name=PD11
+Change Net Name : Old Net Name=NetU4_59 New Net Name=PD12
+Change Net Name : Old Net Name=NetU4_60 New Net Name=PD13
+Change Net Name : Old Net Name=NetU4_61 New Net Name=PD14
+Change Net Name : Old Net Name=NetU4_62 New Net Name=PD15
+Change Net Name : Old Net Name=NetU4_63 New Net Name=PC6
+Change Net Name : Old Net Name=NetU4_64 New Net Name=PC7
+Change Net Name : Old Net Name=NetU4_65 New Net Name=PC8
+Change Net Name : Old Net Name=NetU4_66 New Net Name=PC9
+Change Net Name : Old Net Name=NetU4_67 New Net Name=PA8
+Change Net Name : Old Net Name=NetU4_68 New Net Name=PA9
+Change Net Name : Old Net Name=NetU4_69 New Net Name=PA10
+Change Net Name : Old Net Name=NetU4_70 New Net Name=PA11
+Change Net Name : Old Net Name=NetU4_71 New Net Name=PA12
+Change Net Name : Old Net Name=NetU4_72 New Net Name=PA13
+Change Net Name : Old Net Name=NetU4_76 New Net Name=PA14
+Change Net Name : Old Net Name=NetU4_77 New Net Name=PA15
+Change Net Name : Old Net Name=NetU4_78 New Net Name=PC10
+Change Net Name : Old Net Name=NetU4_79 New Net Name=PC11
+Change Net Name : Old Net Name=NetU4_80 New Net Name=PC12
+Change Net Name : Old Net Name=NetU4_81 New Net Name=PD0
+Change Net Name : Old Net Name=NetU4_82 New Net Name=PD1
+Change Net Name : Old Net Name=NetU4_83 New Net Name=PD2
+Change Net Name : Old Net Name=NetU4_84 New Net Name=PD3
+Change Net Name : Old Net Name=NetU4_85 New Net Name=PD4
+Change Net Name : Old Net Name=NetU4_86 New Net Name=PD5
+Change Net Name : Old Net Name=NetU4_87 New Net Name=PD6
+Change Net Name : Old Net Name=NetU4_88 New Net Name=PD7
+Change Net Name : Old Net Name=NetU4_89 New Net Name=PB3
+Change Net Name : Old Net Name=NetU4_90 New Net Name=PB4
+Change Net Name : Old Net Name=NetU4_91 New Net Name=PB5
+Change Net Name : Old Net Name=NetU4_92 New Net Name=PB6
+Change Net Name : Old Net Name=NetU4_93 New Net Name=PB7
+Change Net Name : Old Net Name=NetU4_94 New Net Name=BOOT0
+Change Net Name : Old Net Name=NetU4_95 New Net Name=PB8
+Change Net Name : Old Net Name=NetU4_96 New Net Name=PB9
+Change Net Name : Old Net Name=NetU4_97 New Net Name=PE0
+Change Net Name : Old Net Name=NetU4_98 New Net Name=PE1
+Added Member To Class: ClassName=U_STM32F103VET6 Member=Component U4 STM32F103VET6
